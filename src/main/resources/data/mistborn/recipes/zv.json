@@ -1,0 +1,22 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "mistborn:zinc_nugget"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "mistborn:zinc_vial",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mistborn:zinc_block"
+    }
+  ],
+  "result": {
+    "item": "mistborn:zinc_ingot",
+    "count": 9
+  }
+}

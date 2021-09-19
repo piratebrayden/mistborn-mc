@@ -1,0 +1,22 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mistborn:tin_nugget"
+    },
+    {
+      "item": "mistborn:tin_nugget"
+    },
+    {
+      "item": "mistborn:tin_nugget"
+    },
+    {
+      "item": "mistborn:tin_nugget"
+    }
+  ],
+  "result": {
+    "item": "mistborn:tin_ingot",
+    "count": 1
+  }
+}

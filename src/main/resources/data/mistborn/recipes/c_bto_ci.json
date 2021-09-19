@@ -1,0 +1,13 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mistborn:copper_block"
+    }
+  ],
+  "result": {
+    "item": "mistborn:copper_ingot",
+    "count": 4
+  }
+}

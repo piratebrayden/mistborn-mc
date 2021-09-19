@@ -1,0 +1,28 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "mistborn:copper_nugget"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "mistborn:zinc_nugget"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "mistborn:copper_nugget"
+    }
+  ],
+  "result": {
+    "item": "mistborn:brass_vial",
+    "count": 1
+  }
+}

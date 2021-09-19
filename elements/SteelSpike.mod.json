@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "steelspike",
+    "customModelName": "Normal",
+    "name": "Steel Spike",
+    "rarity": "UNCOMMON",
+    "specialInfo": [
+      "Be at full health."
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 0,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "bow",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "SteelSpikeFoodEaten"
+    }
+  }
+}

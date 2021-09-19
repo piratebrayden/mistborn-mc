@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mistborn:blocks/tinore",
+    "up": "mistborn:blocks/tinore",
+    "north": "mistborn:blocks/tinore",
+    "east": "mistborn:blocks/tinore",
+    "south": "mistborn:blocks/tinore",
+    "west": "mistborn:blocks/tinore",
+    "particle": "mistborn:blocks/tinore"
+  }
+}

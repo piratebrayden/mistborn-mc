@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PewterNugget"
+      },
+      {
+        "value": "Items.ROTTEN_FLESH"
+      },
+      {
+        "value": "Items.ROTTEN_FLESH"
+      },
+      {
+        "value": "CUSTOM:SteelSpikeEmpty"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Blocks.NETHER_WART"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SteelSpike"
+    },
+    "name": "steel_spike_filled",
+    "namespace": "mod"
+  }
+}

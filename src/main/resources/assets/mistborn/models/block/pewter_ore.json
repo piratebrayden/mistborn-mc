@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mistborn:blocks/pewter",
+    "up": "mistborn:blocks/pewter",
+    "north": "mistborn:blocks/pewter",
+    "east": "mistborn:blocks/pewter",
+    "south": "mistborn:blocks/pewter",
+    "west": "mistborn:blocks/pewter",
+    "particle": "mistborn:blocks/pewter"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "mistborn:copper_nugget"
+    },
+    {
+      "item": "mistborn:tin_nugget"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "mistborn:copper_nugget"
+    }
+  ],
+  "result": {
+    "item": "mistborn:bronze_vial",
+    "count": 1
+  }
+}
