@@ -1,0 +1,13 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mistborn:steel"
+    }
+  ],
+  "result": {
+    "item": "mistborn:steel_nugget",
+    "count": 9
+  }
+}

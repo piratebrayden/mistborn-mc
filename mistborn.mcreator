@@ -713,6 +713,242 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "z_bto_zi"
+    },
+    {
+      "name": "IronMindsArmor",
+      "type": "armor",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "IronMindsArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor_helmet_recipe"
+    },
+    {
+      "name": "IronMindsArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor_body_recipe"
+    },
+    {
+      "name": "IronMindsArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor_leggings_recipe"
+    },
+    {
+      "name": "IronMindsArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor_boots_recipe"
+    },
+    {
+      "name": "IronMindsArmorBootsTickEvent",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor_boots_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IronMindsArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ObsidianAxe",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_axe"
+    },
+    {
+      "name": "OA",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oa"
+    },
+    {
+      "name": "GlassDagger",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glass_dagger"
+    },
+    {
+      "name": "GD",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gd"
+    },
+    {
+      "name": "Steel",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel"
+    },
+    {
+      "name": "IronMindsArmorLeggingsTickEvent",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor_leggings_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IronMindsArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_minds_armor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "S",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s"
+    },
+    {
+      "name": "SteelNugget",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_nugget"
+    },
+    {
+      "name": "SteelBolck",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_bolck"
+    },
+    {
+      "name": "Sn",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sn"
+    },
+    {
+      "name": "Si",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "si"
+    },
+    {
+      "name": "Sb",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sb"
+    },
+    {
+      "name": "Sib",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sib"
+    },
+    {
+      "name": "Sv",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sv"
     }
   ],
   "variable_elements": [],
@@ -723,13 +959,16 @@
       "item.mistborn.steel_spike": "Steel Spike",
       "item.mistborn.pewter_vial": "Pewter Vial",
       "item.mistborn.tin_ingot": "Tin Ingot",
-      "item.mistborn.copper_vial": "Copper Vial",
       "item.mistborn.zinc_ingot": "Zinc Ingot",
+      "item.mistborn.copper_vial": "Copper Vial",
       "item.mistborn.zinc_nugget": "Zinc Nugget",
+      "item.mistborn.iron_minds_armor_helmet": "IronMinds Helmet",
       "item.mistborn.copper_ingot": "Copper Ingot",
+      "block.mistborn.steel_bolck": "Steel Bolck",
       "block.mistborn.tin_ore": "Tin Ore",
-      "block.mistborn.copper_block": "Copper Block",
       "block.mistborn.zinc_block": "Zinc Block",
+      "block.mistborn.copper_block": "Copper Block",
+      "item.mistborn.iron_minds_armor_chestplate": "IronMinds Chestplate",
       "item.mistborn.tin_nugget": "Tin Nugget",
       "item.mistborn.grit_covered_spike": "Grit Covered Spike",
       "block.mistborn.zinc_ore": "Zinc Ore",
@@ -742,8 +981,14 @@
       "item.mistborn.zinc_vial": "Zinc Vial",
       "item.mistborn.steel_spike_empty": "Steel Spike Empty",
       "block.mistborn.copper_ore": "Copper Ore",
+      "item.mistborn.iron_minds_armor_leggings": "IronMinds Leggings",
+      "item.mistborn.iron_minds_armor_boots": "IronMinds Boots",
+      "item.mistborn.steel": "Steel",
+      "item.mistborn.glass_dagger": "Glass Dagger",
       "item.mistborn.pewter_nugget": "Pewter Nugget",
-      "item.mistborn.copper_nugget": "Copper Nugget"
+      "item.mistborn.steel_nugget": "Steel Nugget",
+      "item.mistborn.copper_nugget": "Copper Nugget",
+      "item.mistborn.obsidian_axe": "Obsidian Axe"
     }
   },
   "foldersRoot": {

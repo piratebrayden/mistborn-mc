@@ -1,0 +1,26 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mistborn:steel"
+    },
+    "2": {
+      "item": "mistborn:steel"
+    },
+    "3": {
+      "item": "mistborn:steel"
+    },
+    "5": {
+      "item": "mistborn:steel"
+    }
+  },
+  "result": {
+    "item": "mistborn:iron_minds_armor_leggings",
+    "count": 1
+  }
+}

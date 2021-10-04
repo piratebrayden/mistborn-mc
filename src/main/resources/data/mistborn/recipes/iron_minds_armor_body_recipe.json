@@ -1,0 +1,30 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "   ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "mistborn:iron_minds_armor_chestplate",
+    "count": 1
+  }
+}

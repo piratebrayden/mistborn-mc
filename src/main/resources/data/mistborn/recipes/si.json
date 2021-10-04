@@ -1,0 +1,37 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mistborn:steel_nugget"
+    },
+    {
+      "item": "mistborn:steel_nugget"
+    },
+    {
+      "item": "mistborn:steel_nugget"
+    },
+    {
+      "item": "mistborn:steel_nugget"
+    },
+    {
+      "item": "mistborn:steel_nugget"
+    },
+    {
+      "item": "mistborn:steel_nugget"
+    },
+    {
+      "item": "mistborn:steel_nugget"
+    },
+    {
+      "item": "mistborn:steel_nugget"
+    },
+    {
+      "item": "mistborn:steel_nugget"
+    }
+  ],
+  "result": {
+    "item": "mistborn:steel",
+    "count": 1
+  }
+}

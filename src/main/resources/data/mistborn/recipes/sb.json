@@ -1,0 +1,37 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mistborn:steel"
+    },
+    {
+      "item": "mistborn:steel"
+    },
+    {
+      "item": "mistborn:steel"
+    },
+    {
+      "item": "mistborn:steel"
+    },
+    {
+      "item": "mistborn:steel"
+    },
+    {
+      "item": "mistborn:steel"
+    },
+    {
+      "item": "mistborn:steel"
+    },
+    {
+      "item": "mistborn:steel"
+    },
+    {
+      "item": "mistborn:steel"
+    }
+  ],
+  "result": {
+    "item": "mistborn:steel_bolck",
+    "count": 1
+  }
+}

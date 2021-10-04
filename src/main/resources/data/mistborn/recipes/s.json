@@ -1,0 +1,12 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "mistborn:steel"
+  }
+}

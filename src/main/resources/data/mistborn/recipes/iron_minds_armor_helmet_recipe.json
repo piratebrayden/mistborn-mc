@@ -1,0 +1,19 @@
+{
+  "group": "mistborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2"
+  ],
+  "key": {
+    "0": {
+      "item": "mistborn:steel_spike"
+    },
+    "2": {
+      "item": "mistborn:steel_spike"
+    }
+  },
+  "result": {
+    "item": "mistborn:iron_minds_armor_helmet",
+    "count": 1
+  }
+}
